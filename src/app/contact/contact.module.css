@@ -233,6 +233,29 @@ height: fit-content;
 width: fit-content;
     
 }
+.layer-15-f439421307ac4ace927c9c256a6787c3{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+background-color: transparent;
+
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
+    
+}
+.text-9-16988a94992c4e78bdeb001080570fd1{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18pt;
+
+color: #000000;
+
+height: fit-content;
+width: fit-content;
+    
+}
 .layer-8-2099cff669c34a0b987e31fb8f3ea052{
     display: flex;
     contain: paint;

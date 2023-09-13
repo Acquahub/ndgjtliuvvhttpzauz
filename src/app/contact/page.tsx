@@ -77,6 +77,14 @@ function Contact() {
     </div>
 </div>
 </div>
+<div id="layer-15-f439421307ac4ace927c9c256a6787c3" className={styles["layer-15-f439421307ac4ace927c9c256a6787c3"]}    >
+
+<div className={""}>
+    <div id="text-9-16988a94992c4e78bdeb001080570fd1" className={styles["text-9-16988a94992c4e78bdeb001080570fd1"]}   >
+        [Text]
+    </div>
+</div>
+</div>
 </div>
 <div id="layer-8-2099cff669c34a0b987e31fb8f3ea052" className={styles["layer-8-2099cff669c34a0b987e31fb8f3ea052"]}    >
 <div id="layer-10-e3861be832c746bc892b8048db25a533" className={styles["layer-10-e3861be832c746bc892b8048db25a533"]}    >
