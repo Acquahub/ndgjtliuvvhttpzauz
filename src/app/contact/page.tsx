@@ -8,7 +8,11 @@ import * as fonts from '../../agua/assets/fonts';
 
 
 export const metadata: Metadata = {
-                
+                title: 'Santiago',
+description: 'My business card',
+keywords: 'card',
+creator: 'Santiago',
+
 }
 
 function Contact() {
