@@ -9,47 +9,76 @@
     justify-content: flex-start;
 align-items: flex-start;  
 }
-.layer-1-cb83a9dab82f4294a6909b452b29824f{
+.layer-2-13d5f2d4700e4b45a8e12b0f1392167b{
     display: flex;
     contain: paint;
     flex-direction: column;
 justify-content: flex-start;
 align-items: flex-start;
-
-background-color: #FAFAFA;
-height: 100px;min-height: 100px;
-align-self: stretch;
-    
-}
-.layer-2-42f3ccfab3fb4b6788023b06a49241fe{
-    display: flex;
-    contain: paint;
-    flex-direction: column;
-justify-content: flex-start;
-align-items: center;
 background-color: transparent;
 
-height: fit-content;
+flex-grow: 1;height: unset;
 align-self: stretch;
     
 }
-.layer-3-6e1960ee3e984f12b3ddc5c2014e787b{
+.layer-3-bba831c8dae64efc9b9cc37eac40c767{
     display: flex;
     contain: paint;
     flex-direction: column;
 justify-content: center;
 align-items: center;
-background-color: transparent;
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+background-image: url('/_next/image?url=%2Fassets%2FGradient - Normal.png&w=3840&q=75');
+flex-grow: 1;height: unset;
+align-self: stretch;
+    
+}
+.layer-5-fa07a1237dde4fa39f4093a43baf4b74{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+border-radius: 6.587615283267457vw;background-color: transparent;
 
 height: fit-content;
 width: fit-content;
     
 }
-.imageview-1-9c1894ce42bc495092e19ba6b4a16f02{
+.imageview-1-ae5ba1f2ad1f40d3b1b08aaedb43c862{
     object-fit: contain;
     position: relative;
     
-height: 75vh;min-height: 75vh;
-width: 75vw;min-width: 75vw;
-   
+   width: var(--profileSize); 
+max-width: var(--profileSize); 
+min-width: var(--profileSize); 
+height: var(--profileSize); 
+max-height: var(--profileSize); 
+min-height: var(--profileSize); 
+}
+.layer-4-04cac525c1944687a7d16ddb0f5d7e0c{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+background-color: transparent;
+
+flex-grow: 1;height: unset;
+align-self: stretch;
+    
+}
+.layer-5-30af138dab0b4931b108c3a52e092b18{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+background-color: transparent;
+
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
+    
 }
