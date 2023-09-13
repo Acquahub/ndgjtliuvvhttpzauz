@@ -9,19 +9,7 @@
     justify-content: flex-start;
 align-items: flex-start;  
 }
-.layer-2-13d5f2d4700e4b45a8e12b0f1392167b{
-    display: flex;
-    contain: paint;
-    flex-direction: column;
-justify-content: flex-start;
-align-items: flex-start;
-background-color: transparent;
-
-flex-grow: 1;height: unset;
-align-self: stretch;
-    
-}
-.layer-3-bba831c8dae64efc9b9cc37eac40c767{
+.layer-1-1dcd25da24084328ae85bc8546bebe1d{
     display: flex;
     contain: paint;
     flex-direction: column;
@@ -35,30 +23,229 @@ flex-grow: 1;height: unset;
 align-self: stretch;
     
 }
-.layer-5-fa07a1237dde4fa39f4093a43baf4b74{
+.layer-14-534f3abe8d0746be9978984bc654680a{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+
+padding-top: 5vh;
+box-sizing: border-box;background-color: transparent;
+
+flex-grow: 1;height: unset;
+align-self: stretch;
+    
+}
+.layer-3-11ea6e88806e4778b7d73e4b032151d8{
     display: flex;
     contain: paint;
     flex-direction: column;
 justify-content: flex-start;
 align-items: flex-start;
-border-radius: 6.587615283267457vw;background-color: transparent;
+border-radius: 8.234519104084322vw;background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+background-image: url('/_next/image?url=%2Fassets%2FSantiago Black and White - Agua.png&w=3840&q=75');
+    width: var(--profileImageSize); 
+max-width: var(--profileImageSize); 
+min-width: var(--profileImageSize); 
+height: var(--profileImageSize); 
+max-height: var(--profileImageSize); 
+min-height: var(--profileImageSize); 
+}
+.imageview-1-bd258b9bb61b489dac9f0d5a0ac4f461{
+    object-fit: contain;
+    position: relative;
+    
+   width: var(--profileImageSize); 
+max-width: var(--profileImageSize); 
+min-width: var(--profileImageSize); 
+height: var(--profileImageSize); 
+max-height: var(--profileImageSize); 
+min-height: var(--profileImageSize); 
+}
+.layer-13-2721b0c71228410c9daff7c722b54422{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+
+padding-bottom: 5vh;
+box-sizing: border-box;background-color: transparent;
+
+height: fit-content;
+align-self: stretch;
+    
+}
+.text-1-7f816348c5f04ed2b29164e6981daf13{
+     text-align: center;
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-weight: bold;
+color: #000000;
+
+height: fit-content;
+width: fit-content;
+    font-size: var(--Text1Size); 
+}
+.text-7-98fb2e24c9c74e00b59d8fedbcc42e70{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+
+color: #000000;
+
+height: fit-content;
+width: fit-content;
+    font-size: var(--Text2Size); 
+}
+.layer-2-30a576cadd594c0c8d642b225d0e9402{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+padding-top: 5vh;
+padding-bottom: 8vh;
+box-sizing: border-box;background-color: transparent;
+
+flex-grow: 1;height: unset;
+align-self: stretch;
+    
+}
+.layer-4-53f94c064dec4155997e8cd8a8542eca{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: transparent;
+
+height: fit-content;
+align-self: stretch;
+    
+}
+.text-3-250a7b0ed8244774a858e0d0ddd8d791{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-weight: bold;
+
+height: fit-content;
+width: fit-content;
+    background: var(--primaryColor); 
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-size: var(--Text1Size); 
+}
+.text-2-546d2a9764a44f9a94221d28e3bff9d0{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+
+color: #000000;
+
+height: fit-content;
+width: fit-content;
+    font-size: var(--Text2Size); 
+}
+.layer-6-744d7ac159a74080928dc8468c729e8e{
+    display: flex;
+    contain: paint;
+    flex-direction: row;
+justify-content: center;
+align-items: center;
+background-color: transparent;
+
+flex-grow: 1;height: unset;
+align-self: stretch;
+    
+}
+.layer-7-bc13514b025d4b5eac495bc5453d1ece{
+    display: flex;
+    contain: paint;
+    flex-direction: row;
+justify-content: flex-start;
+align-items: flex-start;
+background-color: transparent;
 
 height: fit-content;
 width: fit-content;
     
 }
-.imageview-1-ae5ba1f2ad1f40d3b1b08aaedb43c862{
+.icon-1-25eed2b91d444292b8790fee97977c80{
+    font-family: "Material Icons";
+    color: #000000;
+
+height: fit-content;
+    width: var(--iconSize); 
+max-width: var(--iconSize); 
+min-width: var(--iconSize); 
+}
+.text-4-8857318789e04948ac18c311b23f38ca{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+
+color: #000000;
+
+height: fit-content;
+width: fit-content;
+    font-size: var(--iconSize); 
+}
+.layer-8-c26f4a952fdf467fbd92e50ae538f371{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+background-color: transparent;
+
+height: fit-content;
+width: fit-content;
+    
+}
+.imageview-2-1fda112c34f44d198182ed20eed3cc7b{
     object-fit: contain;
     position: relative;
     
-   width: var(--profileSize); 
-max-width: var(--profileSize); 
-min-width: var(--profileSize); 
-height: var(--profileSize); 
-max-height: var(--profileSize); 
-min-height: var(--profileSize); 
+   width: var(--iconSize); 
+max-width: var(--iconSize); 
+min-width: var(--iconSize); 
+height: var(--iconSize); 
+max-height: var(--iconSize); 
+min-height: var(--iconSize); 
 }
-.layer-4-04cac525c1944687a7d16ddb0f5d7e0c{
+.layer-9-780b5703fede4494b6db488e9738c74e{
+    display: flex;
+    contain: paint;
+    flex-direction: row;
+justify-content: flex-start;
+align-items: flex-start;
+background-color: transparent;
+
+height: fit-content;
+width: fit-content;
+    
+}
+.icon-2-424e0137dd404e9e931016b5c69c6d35{
+    font-family: "Material Icons";
+    color: #000000;
+
+height: fit-content;
+    width: var(--iconSize); 
+max-width: var(--iconSize); 
+min-width: var(--iconSize); 
+}
+.text-5-c838c31781fb45ffbb7ffececc60c5bd{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+
+color: #000000;
+
+height: fit-content;
+width: fit-content;
+    font-size: var(--iconSize); 
+}
+.layer-10-3e68b5ae3646478aa2e351f0e222fdc5{
     display: flex;
     contain: paint;
     flex-direction: column;
@@ -70,7 +257,7 @@ flex-grow: 1;height: unset;
 align-self: stretch;
     
 }
-.layer-5-30af138dab0b4931b108c3a52e092b18{
+.layer-11-4d4bdddc629045cbb59eb4fbe69e9dfe{
     display: flex;
     contain: paint;
     flex-direction: column;
@@ -78,7 +265,38 @@ justify-content: flex-start;
 align-items: flex-start;
 background-color: transparent;
 
-height: 100px;min-height: 100px;
-width: 300px;min-width: 300px;
+flex-grow: 1;height: unset;
+align-self: stretch;
+    
+}
+.layer-12-77964a7acd234369949075f2baf3a074{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: transparent;
+
+height: fit-content;
+align-self: stretch;
+    
+}
+.imageview-3-5dafe37d8222453a8810fd03f405b21a{
+    object-fit: contain;
+    position: relative;
+    
+height: 90px;min-height: 90px;
+width: 115px;min-width: 115px;
+   
+}
+.text-6-932299da82fb46bd92435af1ce7539bb{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18pt;
+
+color: #000000;
+
+height: fit-content;
+width: fit-content;
     
 }

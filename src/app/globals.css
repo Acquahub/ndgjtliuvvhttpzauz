@@ -1,21 +1,17 @@
 :root {
+	--profileImageSize: 199px;
 	--primaryColor: linear-gradient(90deg, #00aaf3 0%, #64c0e8 50%, #ade0f5 100%);
-	--secondaryColor: #FFFFFF;
-	--profileSize: 250px;
+	--iconSize: 25px;
+	--Text1Size: 32px;
+	--Text2Size: 18px;
 
 }
 
 @media (max-width: 480px) {:root{
-	--profileSize: 250px;
+	--profileImageSize: 199px;
 	--primaryColor: linear-gradient(90deg, #00aaf3 0%, #64c0e8 50%, #ade0f5 100%);
-	--secondaryColor: #FFFFFF;
-
-}  
-}
-@media (max-aspect-ratio: 1/1) and (min-width: 481px) {:root{
-	--primaryColor: linear-gradient(90deg, #00aaf3 0%, #64c0e8 50%, #ade0f5 100%);
-	--secondaryColor: #FFFFFF;
-	--profileSize: 350px;
+	--iconSize: 25px;
+	--Text1Size: 22px;
 
 }  
 }
