@@ -1,6 +1,7 @@
 :root {
 	--visible: truepx;
-	--profileImageSize: 250px;
+	--primaryColor: linear-gradient(90deg, #00aaf3 0%, #64c0e8 50%, #ade0f5 100%);
+	--secondaryColor: #FFFFFF;
 
 }
 html, body {
