@@ -1,5 +1,6 @@
 :root {
 	--visible: truepx;
+	--profileImageSize: 250px;
 
 }
 html, body {
