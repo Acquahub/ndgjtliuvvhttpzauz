@@ -43,7 +43,7 @@ align-self: stretch;
     flex-direction: column;
 justify-content: flex-start;
 align-items: flex-start;
-border-radius: 8.234519104084322vw;background-repeat: no-repeat;
+border-radius: 6.587615283267457vw;background-repeat: no-repeat;
 background-size:cover;
 background-position: center;
 background-image: url('/_next/image?url=%2Fassets%2FSantiago Black and White - Agua.png&w=3840&q=75');
@@ -107,7 +107,7 @@ justify-content: flex-start;
 align-items: flex-start;
 
 padding-top: 5vh;
-padding-bottom: 8vh;
+padding-bottom: 3vh;
 box-sizing: border-box;background-color: transparent;
 
 flex-grow: 1;height: unset;
@@ -156,8 +156,8 @@ justify-content: center;
 align-items: center;
 background-color: transparent;
 
-height: 100px;min-height: 100px;
-width: 300px;min-width: 300px;
+flex-grow: 1;height: unset;
+align-self: stretch;
     
 }
 .layer-7-bc13514b025d4b5eac495bc5453d1ece{
@@ -169,8 +169,8 @@ align-items: center;
 background-color: transparent;
 
 height: fit-content;
-width: fit-content;
-    
+flex-grow: 1;width: unset;
+    margin-right: var(--TextMargin); 
 }
 .icon-1-25eed2b91d444292b8790fee97977c80{
     font-family: "Material Icons";
@@ -180,6 +180,9 @@ height: fit-content;
     width: var(--iconSize); 
 max-width: var(--iconSize); 
 min-width: var(--iconSize); 
+
+--margin-right: var(--TextMargin2);
+margin-right: var(--margin-right);
 }
 .text-4-8857318789e04948ac18c311b23f38ca{
      
@@ -196,12 +199,12 @@ width: fit-content;
     contain: paint;
     flex-direction: column;
 justify-content: flex-start;
-align-items: flex-start;
+align-items: center;
 background-color: transparent;
 
 height: fit-content;
 width: fit-content;
-    
+    margin-right: var(--TextMargin); 
 }
 .imageview-2-1fda112c34f44d198182ed20eed3cc7b{
     object-fit: contain;
@@ -223,7 +226,7 @@ align-items: center;
 background-color: transparent;
 
 height: fit-content;
-width: fit-content;
+flex-grow: 1;width: unset;
     
 }
 .icon-2-424e0137dd404e9e931016b5c69c6d35{
@@ -234,6 +237,9 @@ height: fit-content;
     width: var(--iconSize); 
 max-width: var(--iconSize); 
 min-width: var(--iconSize); 
+
+--margin-right: var(--TextMargin2);
+margin-right: var(--margin-right);
 }
 .text-5-c838c31781fb45ffbb7ffececc60c5bd{
      

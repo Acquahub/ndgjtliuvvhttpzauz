@@ -15,7 +15,9 @@ export const metadata: Metadata = {
 function Screen1() {
     
     
-    
+    const openInNewTab = url => {
+    window.open(url, '_blank', '');
+};
 
     return(
         <div className={styles["Screen1"]}>
@@ -69,7 +71,7 @@ function Screen1() {
 </div>
 </div>
 <div id="layer-8-c26f4a952fdf467fbd92e50ae538f371" className={styles["layer-8-c26f4a952fdf467fbd92e50ae538f371"]}    >
-<div className={styles["imageview-2-1fda112c34f44d198182ed20eed3cc7b"]}  >
+<div className={styles["imageview-2-1fda112c34f44d198182ed20eed3cc7b"]}  onClick={() => openInNewTab("https://wa.me/573214780277")}>
     <Image id="imageview-2-1fda112c34f44d198182ed20eed3cc7b" sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" style={{ objectFit: 'contain' }} fill={true} alt="imageview-2" src='/assets/whatsapp.png' />
 </div>
 </div>
