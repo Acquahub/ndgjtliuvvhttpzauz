@@ -31,8 +31,8 @@ justify-content: center;
 align-items: center;
 background-color: transparent;
 
-flex-grow: 1;height: unset;
-align-self: stretch;
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
     
 }
 .layer-6-a25c51ff34514e8e8e2e87f525da2084{
@@ -260,12 +260,36 @@ width: fit-content;
 .layer-9-ede60fbe6dc34e3696535c5caa9afa04{
     display: flex;
     contain: paint;
-    flex-direction: column;
+    flex-direction: row;
 justify-content: flex-start;
 align-items: flex-start;
 background-color: transparent;
 
-flex-grow: 1;height: unset;
-align-self: stretch;
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
     
+}
+.imageview-3-abaad8310bc642a6966a8cb61f570dd7{
+    object-fit: contain;
+    position: relative;
+    
+height: 90px;min-height: 90px;
+width: 115px;min-width: 115px;
+   
+}
+.imageview-4-c903eb3fe79440b783fd211d8363ba7a{
+    object-fit: contain;
+    position: relative;
+    
+height: 90px;min-height: 90px;
+width: 115px;min-width: 115px;
+   
+}
+.imageview-5-8ee41431bee64243b7bf657ee71c1d66{
+    object-fit: contain;
+    position: relative;
+    
+height: 90px;min-height: 90px;
+width: 115px;min-width: 115px;
+   
 }

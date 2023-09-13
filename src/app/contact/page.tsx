@@ -84,7 +84,17 @@ function Contact() {
     </div>
 </div>
 </div>
-<div id="layer-9-ede60fbe6dc34e3696535c5caa9afa04" className={styles["layer-9-ede60fbe6dc34e3696535c5caa9afa04"]}    ></div>
+<div id="layer-9-ede60fbe6dc34e3696535c5caa9afa04" className={styles["layer-9-ede60fbe6dc34e3696535c5caa9afa04"]}    >
+<div className={styles["imageview-3-abaad8310bc642a6966a8cb61f570dd7"]}  >
+    <Image id="imageview-3-abaad8310bc642a6966a8cb61f570dd7" sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" style={{ objectFit: 'contain' }} fill={true} alt="imageview-3" src='https://i.ibb.co/5ndGgWv/image-43.png' />
+</div>
+<div className={styles["imageview-4-c903eb3fe79440b783fd211d8363ba7a"]}  >
+    <Image id="imageview-4-c903eb3fe79440b783fd211d8363ba7a" sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" style={{ objectFit: 'contain' }} fill={true} alt="imageview-4" src='https://i.ibb.co/5ndGgWv/image-43.png' />
+</div>
+<div className={styles["imageview-5-8ee41431bee64243b7bf657ee71c1d66"]}  >
+    <Image id="imageview-5-8ee41431bee64243b7bf657ee71c1d66" sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" style={{ objectFit: 'contain' }} fill={true} alt="imageview-5" src='https://i.ibb.co/5ndGgWv/image-43.png' />
+</div>
+</div>
 </div>
 </div>
 </div>
