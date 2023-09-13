@@ -60,11 +60,11 @@ function Screen1() {
 </div>
 <div id="layer-6-744d7ac159a74080928dc8468c729e8e" className={styles["layer-6-744d7ac159a74080928dc8468c729e8e"]}    >
 <div id="layer-7-bc13514b025d4b5eac495bc5453d1ece" className={styles["layer-7-bc13514b025d4b5eac495bc5453d1ece"]}    >
-<span id="25eed2b91d444292b8790fee97977c80" className={styles["icon-1-25eed2b91d444292b8790fee97977c80"]}  >extension</span>
+<span id="25eed2b91d444292b8790fee97977c80" className={styles["icon-1-25eed2b91d444292b8790fee97977c80"]}  >local_phone</span>
 
 <div className={""}>
     <div id="text-4-8857318789e04948ac18c311b23f38ca" className={styles["text-4-8857318789e04948ac18c311b23f38ca"]}   >
-        [Text]
+        Llamada
     </div>
 </div>
 </div>
@@ -74,11 +74,11 @@ function Screen1() {
 </div>
 </div>
 <div id="layer-9-780b5703fede4494b6db488e9738c74e" className={styles["layer-9-780b5703fede4494b6db488e9738c74e"]}    >
-<span id="424e0137dd404e9e931016b5c69c6d35" className={styles["icon-2-424e0137dd404e9e931016b5c69c6d35"]}  >extension</span>
+<span id="424e0137dd404e9e931016b5c69c6d35" className={styles["icon-2-424e0137dd404e9e931016b5c69c6d35"]}  >mail</span>
 
 <div className={""}>
     <div id="text-5-c838c31781fb45ffbb7ffececc60c5bd" className={styles["text-5-c838c31781fb45ffbb7ffececc60c5bd"]}   >
-        [Text]
+        Correo
     </div>
 </div>
 </div>

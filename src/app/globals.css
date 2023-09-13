@@ -1,17 +1,20 @@
 :root {
-	--profileImageSize: 199px;
+	--profileImageSize: 200px;
 	--primaryColor: linear-gradient(90deg, #00aaf3 0%, #64c0e8 50%, #ade0f5 100%);
 	--iconSize: 25px;
 	--Text1Size: 32px;
 	--Text2Size: 18px;
+	--logoSize: 100px;
 
 }
 
 @media (max-width: 480px) {:root{
-	--profileImageSize: 199px;
+	--profileImageSize: 200px;
 	--primaryColor: linear-gradient(90deg, #00aaf3 0%, #64c0e8 50%, #ade0f5 100%);
 	--iconSize: 25px;
-	--Text1Size: 22px;
+	--Text1Size: 32px;
+	--Text2Size: 18px;
+	--logoSize: 100px;
 
 }  
 }
