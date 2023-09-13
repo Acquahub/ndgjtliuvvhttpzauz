@@ -7,7 +7,6 @@ import Image from 'next/image';
 import * as fonts from '../../agua/assets/fonts';
 
 
-
 export const metadata: Metadata = {
                 
 }
@@ -21,11 +20,9 @@ function Contact() {
         <div className={styles["Contact"]}>
             
 <div id="layer-4-3ca79c2c21d04d8bb027fe51c4c746ad" className={styles["layer-4-3ca79c2c21d04d8bb027fe51c4c746ad"]}    >
-<div id="layer-4-942e260bda15444f9e00c7c7d1ad2c11" className={styles["layer-4-942e260bda15444f9e00c7c7d1ad2c11"]}    >
-<div id="layer-6-a25c51ff34514e8e8e2e87f525da2084" className={styles["layer-6-a25c51ff34514e8e8e2e87f525da2084"]}    >
-<div className={styles["imageview-2-118b982191f6499b958356cc1853c91e"]}  >
-    <Image id="imageview-2-118b982191f6499b958356cc1853c91e" sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" style={{ objectFit: 'contain' }} fill={true} alt="imageview-2" src='/assets/Santiago Black and White - Agua.png' />
-</div>
+<div id="layer-15-61d428d30c1b491aa6af57170dd2916b" className={styles["layer-15-61d428d30c1b491aa6af57170dd2916b"]}    >
+<div className={styles["imageview-2-5d064099ff164afe8084864bea3ce35f"]}  >
+    <Image id="imageview-2-5d064099ff164afe8084864bea3ce35f" sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" style={{ objectFit: 'contain' }} fill={true} alt="imageview-2" src='/assets/Santiago Black and White - Agua.png' />
 </div>
 </div>
 <div id="layer-5-bc49def183364e399c5142a03cfa5754" className={styles["layer-5-bc49def183364e399c5142a03cfa5754"]}    >
@@ -43,37 +40,13 @@ function Contact() {
     </div>
 </div>
 </div>
-<div id="layer-6-384714086505432085b7f74de51c8f8d" className={styles["layer-6-384714086505432085b7f74de51c8f8d"]}    >
-<div id="layer-11-3ec5128aa543474e8e429816b96d8fc6" className={styles["layer-11-3ec5128aa543474e8e429816b96d8fc6"]}    >
-<span id="6e59fb80de2847fba070302c01dd20fb" className={styles["icon-1-6e59fb80de2847fba070302c01dd20fb"]}  >accessible_forward</span>
-
-<div className={""}>
-    <div id="text-5-5590c2d68e99451e90a3fdfdc17de616" className={styles["text-5-5590c2d68e99451e90a3fdfdc17de616"]}   >
-        Wheels go brrrr
-    </div>
-</div>
-</div>
-<div id="layer-12-c1603675572b4826b19cdb977b2da180" className={styles["layer-12-c1603675572b4826b19cdb977b2da180"]}    >
-<div className={styles["imageview-2-b16a55caf250497b9a6307669a65b4fc"]}  >
-    <Image id="imageview-2-b16a55caf250497b9a6307669a65b4fc" sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" style={{ objectFit: 'contain' }} fill={true} alt="imageview-2" src='https://i.ibb.co/5ndGgWv/image-43.png' />
-</div>
-</div>
-<div id="layer-13-a33715f4255647178e8d52a374fa4483" className={styles["layer-13-a33715f4255647178e8d52a374fa4483"]}    >
-<span id="f6a0a619a06744c29886db1d40857eb4" className={styles["icon-2-f6a0a619a06744c29886db1d40857eb4"]}  >extension</span>
-
-<div className={""}>
-    <div id="text-6-a2633b58bf194beab843548bbff6333f" className={styles["text-6-a2633b58bf194beab843548bbff6333f"]}   >
-        [Text]
-    </div>
-</div>
-</div>
-</div>
+<div id="layer-6-384714086505432085b7f74de51c8f8d" className={styles["layer-6-384714086505432085b7f74de51c8f8d"]}    ></div>
 <div id="layer-7-3e892d4bb807477d8448ffcf18572432" className={styles["layer-7-3e892d4bb807477d8448ffcf18572432"]}    >
 <div id="layer-14-149999efeea54927835e38e09805dae6" className={styles["layer-14-149999efeea54927835e38e09805dae6"]}    >
 
 <div className={""}>
     <div id="text-7-46ed4ba3942d4d219fb3a57d521d1a63" className={styles["text-7-46ed4ba3942d4d219fb3a57d521d1a63"]}   >
-        [Text]
+        Hello agua
     </div>
 </div>
 </div>

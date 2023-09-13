@@ -23,34 +23,19 @@ flex-grow: 1;height: unset;
 align-self: stretch;
     
 }
-.layer-4-942e260bda15444f9e00c7c7d1ad2c11{
-    display: flex;
-    contain: paint;
-    flex-direction: column;
-justify-content: center;
-align-items: center;
-background-color: transparent;
-
-height: fit-content;
-width: 300px;min-width: 300px;
-    
-}
-.layer-6-a25c51ff34514e8e8e2e87f525da2084{
+.layer-15-61d428d30c1b491aa6af57170dd2916b{
     display: flex;
     contain: paint;
     flex-direction: column;
 justify-content: flex-start;
 align-items: flex-start;
-border-radius: 8.234519104084322vw;background-color: transparent;
+border-radius: 9.881422924901186vw;background-color: transparent;
 
-    width: var(--primaryColor); 
-max-width: var(--primaryColor); 
-min-width: var(--primaryColor); 
-height: var(--primaryColor); 
-max-height: var(--primaryColor); 
-min-height: var(--primaryColor); 
+height: 300px;min-height: 300px;
+width: 300px;min-width: 300px;
+    
 }
-.imageview-2-118b982191f6499b958356cc1853c91e{
+.imageview-2-5d064099ff164afe8084864bea3ce35f{
     object-fit: contain;
     position: relative;
     
@@ -115,88 +100,6 @@ background-color: transparent;
 height: fit-content;
 align-self: stretch;
     
-}
-.layer-11-3ec5128aa543474e8e429816b96d8fc6{
-    display: flex;
-    contain: paint;
-    flex-direction: row;
-justify-content: flex-start;
-align-items: flex-start;
-
-background: linear-gradient(90deg, #00aaf3 0%, #64c0e8 50%, #ade0f5 100%);
-height: fit-content;
-width: fit-content;
-    
-}
-.icon-1-6e59fb80de2847fba070302c01dd20fb{
-    font-family: "Material Icons";
-    
-height: fit-content;
-width: fit-content; font-size: 30px;
-    color: var(--secondaryColor); 
-}
-.text-5-5590c2d68e99451e90a3fdfdc17de616{
-     
-font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
-font-size: 18pt;
-
-
-height: fit-content;
-width: fit-content;
-    background: var(--secondaryColor); 
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-}
-.layer-12-c1603675572b4826b19cdb977b2da180{
-    display: flex;
-    contain: paint;
-    flex-direction: column;
-justify-content: flex-start;
-align-items: flex-start;
-
-background: linear-gradient(90deg, #00aaf3 0%, #64c0e8 50%, #ade0f5 100%);
-height: fit-content;
-width: fit-content;
-    
-}
-.imageview-2-b16a55caf250497b9a6307669a65b4fc{
-    object-fit: contain;
-    position: relative;
-    
-height: 50px;min-height: 50px;
-width: 50px;min-width: 50px;
-   
-}
-.layer-13-a33715f4255647178e8d52a374fa4483{
-    display: flex;
-    contain: paint;
-    flex-direction: row;
-justify-content: flex-start;
-align-items: flex-start;
-
-background: linear-gradient(90deg, #00aaf3 0%, #64c0e8 50%, #ade0f5 100%);
-height: fit-content;
-width: fit-content;
-    
-}
-.icon-2-f6a0a619a06744c29886db1d40857eb4{
-    font-family: "Material Icons";
-    
-height: fit-content;
-width: fit-content; font-size: 30px;
-    color: var(--secondaryColor); 
-}
-.text-6-a2633b58bf194beab843548bbff6333f{
-     
-font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
-font-size: 18pt;
-
-
-height: fit-content;
-width: fit-content;
-    background: var(--secondaryColor); 
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
 }
 .layer-7-3e892d4bb807477d8448ffcf18572432{
     display: flex;
