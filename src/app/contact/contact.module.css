@@ -210,6 +210,29 @@ flex-grow: 1;height: unset;
 align-self: stretch;
     
 }
+.layer-14-3890c5b72df2435f85ebd20addd90e6b{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+background-color: transparent;
+
+height: fit-content;
+width: fit-content;
+    
+}
+.text-8-6f96877c3499494e93cf73978cb42744{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18pt;
+
+color: #000000;
+
+height: fit-content;
+width: fit-content;
+    
+}
 .layer-8-2099cff669c34a0b987e31fb8f3ea052{
     display: flex;
     contain: paint;
