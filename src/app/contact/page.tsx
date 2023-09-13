@@ -85,6 +85,14 @@ function Contact() {
     </div>
 </div>
 </div>
+<div id="layer-16-5081303a9a1f4c84a295b76e5ae45f75" className={styles["layer-16-5081303a9a1f4c84a295b76e5ae45f75"]}    >
+
+<div className={""}>
+    <div id="text-10-661d5f48511c483c92f47594726cd606" className={styles["text-10-661d5f48511c483c92f47594726cd606"]}   >
+        [Text]
+    </div>
+</div>
+</div>
 </div>
 <div id="layer-8-2099cff669c34a0b987e31fb8f3ea052" className={styles["layer-8-2099cff669c34a0b987e31fb8f3ea052"]}    >
 <div id="layer-10-e3861be832c746bc892b8048db25a533" className={styles["layer-10-e3861be832c746bc892b8048db25a533"]}    >

@@ -202,12 +202,12 @@ width: fit-content;
     display: flex;
     contain: paint;
     flex-direction: column;
-justify-content: flex-start;
-align-items: flex-start;
+justify-content: center;
+align-items: center;
 background-color: transparent;
 
-flex-grow: 1;height: unset;
-align-self: stretch;
+height: 100px;min-height: 100px;
+width: 300px;min-width: 300px;
     
 }
 .layer-14-3890c5b72df2435f85ebd20addd90e6b{
@@ -241,11 +241,34 @@ justify-content: flex-start;
 align-items: flex-start;
 background-color: transparent;
 
-height: 100px;min-height: 100px;
-width: 300px;min-width: 300px;
+height: fit-content;
+width: fit-content;
     
 }
 .text-9-16988a94992c4e78bdeb001080570fd1{
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
+font-size: 18pt;
+
+color: #000000;
+
+height: fit-content;
+width: fit-content;
+    
+}
+.layer-16-5081303a9a1f4c84a295b76e5ae45f75{
+    display: flex;
+    contain: paint;
+    flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+background-color: transparent;
+
+height: fit-content;
+width: fit-content;
+    
+}
+.text-10-661d5f48511c483c92f47594726cd606{
      
 font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif;
 font-size: 18pt;
@@ -307,8 +330,8 @@ width: fit-content;
     display: flex;
     contain: paint;
     flex-direction: row;
-justify-content: flex-start;
-align-items: flex-start;
+justify-content: center;
+align-items: center;
 background-color: transparent;
 
 height: 100px;min-height: 100px;
