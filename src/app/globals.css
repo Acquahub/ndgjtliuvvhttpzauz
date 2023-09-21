@@ -53,6 +53,7 @@ code {
 
 .baseImageView {
     object-fit: contain;
+    position: relative;
     height: 90px;
     min-height: 90px;
     width: 115px;
@@ -79,18 +80,86 @@ code {
 	--logoSize: 100px;
 	--TextMargin: 7vw;
 	--TextMargin2: 2vw;
+	--orientation: row;
 
 }
 
+.layer-6-744d7ac159a74080928dc8468c729e8e-orientation{
+align-items: var(--verticalAxis);
+justify-content: var(--horizontalAxis);
+}
+.layer-7-bc13514b025d4b5eac495bc5453d1ece-parentOrientationVariable{
+flex: 1 1 50%; align-self: unset; width: 0px; min-width: 0px;
+}
+.layer-9-780b5703fede4494b6db488e9738c74e-parentOrientationVariable{
+flex: 1 1 50%; align-self: unset; width: 0px; min-width: 0px;
+}
 @media (max-width: 480px) {:root{
 	--profileImageSize: 200px;
 	--logoSize: 100px;
+	--iconSize: 25px;
+	--TextMargin2: 2vw;
+	--orientation: column;
+	--primaryColor: linear-gradient(90deg, #00aaf3 0%, #64c0e8 50%, #ade0f5 100%);
+	--Text1Size: 32px;
+	--Text2Size: 15px;
+	--TextMargin: 0vw;
+
+} 
+.layer-6-744d7ac159a74080928dc8468c729e8e-orientation{
+align-items: var(--horizontalAxis);
+justify-content: var(--verticalAxis);
+}
+.layer-7-bc13514b025d4b5eac495bc5453d1ece-parentOrientationVariable{
+align-self: stretch; flex: unset; width: unset; min-width: unset;
+}
+.layer-9-780b5703fede4494b6db488e9738c74e-parentOrientationVariable{
+align-self: stretch; flex: unset; width: unset; min-width: unset;
+} 
+}
+@media (min-width: 481px) {:root{
+	--profileImageSize: 200px;
 	--primaryColor: linear-gradient(90deg, #00aaf3 0%, #64c0e8 50%, #ade0f5 100%);
 	--iconSize: 25px;
 	--Text1Size: 32px;
+	--Text2Size: 18px;
+	--logoSize: 100px;
 	--TextMargin: 7vw;
 	--TextMargin2: 2vw;
-	--Text2Size: 18px;
+	--orientation: row;
 
-}  
+} 
+.layer-6-744d7ac159a74080928dc8468c729e8e-orientation{
+align-items: var(--verticalAxis);
+justify-content: var(--horizontalAxis);
+}
+.layer-7-bc13514b025d4b5eac495bc5453d1ece-parentOrientationVariable{
+flex: 1 1 50%; align-self: unset; width: 0px; min-width: 0px;
+}
+.layer-9-780b5703fede4494b6db488e9738c74e-parentOrientationVariable{
+flex: 1 1 50%; align-self: unset; width: 0px; min-width: 0px;
+} 
+}
+@media (max-aspect-ratio: 1/1) and (min-width: 481px) {:root{
+	--profileImageSize: 250px;
+	--primaryColor: linear-gradient(90deg, #00aaf3 0%, #64c0e8 50%, #ade0f5 100%);
+	--iconSize: 22px;
+	--Text1Size: 32px;
+	--Text2Size: 18px;
+	--logoSize: 125px;
+	--TextMargin: 7vw;
+	--TextMargin2: 1vw;
+	--orientation: row;
+
+} 
+.layer-6-744d7ac159a74080928dc8468c729e8e-orientation{
+align-items: var(--verticalAxis);
+justify-content: var(--horizontalAxis);
+}
+.layer-7-bc13514b025d4b5eac495bc5453d1ece-parentOrientationVariable{
+flex: 1 1 50%; align-self: unset; width: 0px; min-width: 0px;
+}
+.layer-9-780b5703fede4494b6db488e9738c74e-parentOrientationVariable{
+flex: 1 1 50%; align-self: unset; width: 0px; min-width: 0px;
+} 
 }

@@ -1,3 +1,4 @@
+"use client";
 import React from 'react';
 import Link from 'next/link';
 import styles from './screen1.module.css';
@@ -62,8 +63,9 @@ function Screen1() {
     </div>
 </div>
 </div>
-<div id="layer-6-744d7ac159a74080928dc8468c729e8e" className={"baseLayer hide-native-scrollbar " + styles["layer-6-744d7ac159a74080928dc8468c729e8e"]}    >
-<div id="layer-7-bc13514b025d4b5eac495bc5453d1ece" className={"baseLayer hide-native-scrollbar " + styles["layer-7-bc13514b025d4b5eac495bc5453d1ece"]}    >
+<div id="layer-10-3e68b5ae3646478aa2e351f0e222fdc5" className={"baseLayer hide-native-scrollbar " + styles["layer-10-3e68b5ae3646478aa2e351f0e222fdc5"]}    >
+<div id="layer-6-744d7ac159a74080928dc8468c729e8e" className={"baseLayer hide-native-scrollbar " + styles["layer-6-744d7ac159a74080928dc8468c729e8e"]+ ' layer-6-744d7ac159a74080928dc8468c729e8e-orientation'}    >
+<div id="layer-7-bc13514b025d4b5eac495bc5453d1ece" className={"baseLayer hide-native-scrollbar " + styles["layer-7-bc13514b025d4b5eac495bc5453d1ece"]+ ' layer-7-bc13514b025d4b5eac495bc5453d1ece-parentOrientationVariable'}    >
 <span id="25eed2b91d444292b8790fee97977c80" className={"baseIcon " + styles["icon-1-25eed2b91d444292b8790fee97977c80"]}  >local_phone</span>
 
 <div className={""}>
@@ -83,7 +85,7 @@ function Screen1() {
     </div>
 </div>
 </div>
-<div id="layer-9-780b5703fede4494b6db488e9738c74e" className={"baseLayer hide-native-scrollbar " + styles["layer-9-780b5703fede4494b6db488e9738c74e"]}    >
+<div id="layer-9-780b5703fede4494b6db488e9738c74e" className={"baseLayer hide-native-scrollbar " + styles["layer-9-780b5703fede4494b6db488e9738c74e"]+ ' layer-9-780b5703fede4494b6db488e9738c74e-parentOrientationVariable'}    >
 <span id="424e0137dd404e9e931016b5c69c6d35" className={"baseIcon " + styles["icon-2-424e0137dd404e9e931016b5c69c6d35"]}  >mail</span>
 
 <div className={""}>
@@ -93,8 +95,6 @@ function Screen1() {
 </div>
 </div>
 </div>
-<div id="layer-10-3e68b5ae3646478aa2e351f0e222fdc5" className={"baseLayer hide-native-scrollbar " + styles["layer-10-3e68b5ae3646478aa2e351f0e222fdc5"]}    >
-<div id="layer-11-4d4bdddc629045cbb59eb4fbe69e9dfe" className={"baseLayer hide-native-scrollbar " + styles["layer-11-4d4bdddc629045cbb59eb4fbe69e9dfe"]}    ></div>
 </div>
 <div id="layer-12-77964a7acd234369949075f2baf3a074" className={"baseLayer hide-native-scrollbar " + styles["layer-12-77964a7acd234369949075f2baf3a074"]}    >
 <div className={"baseImageView " + styles["imageview-3-5dafe37d8222453a8810fd03f405b21a"]}  >
